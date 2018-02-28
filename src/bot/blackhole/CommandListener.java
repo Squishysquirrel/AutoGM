@@ -1,4 +1,4 @@
-package bot.blackhole.command;
+package bot.blackhole;
 
 import org.apache.commons.lang3.ArrayUtils;
 

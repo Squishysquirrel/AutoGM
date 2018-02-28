@@ -1,4 +1,4 @@
-package bot.blackhole.command;
+package bot.blackhole;
 
 import sx.blah.discord.api.events.Event;
 import sx.blah.discord.handle.obj.IMessage;
