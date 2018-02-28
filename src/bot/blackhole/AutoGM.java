@@ -15,3 +15,4 @@ public class AutoGM {
 		client.getDispatcher().registerListener(new CommandExecutor(client));
 	}
 }
+// Joshua Lebron is in charge of roll creation.
