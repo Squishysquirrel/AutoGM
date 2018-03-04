@@ -1,30 +1,30 @@
 <project>
-  <modelVersion>4.0.0</modelVersion>
+    <modelVersion>4.0.0</modelVersion>
 
-  <groupId>bot.blackhole</groupId>
-  <artifactId>bot.blackhole.AutoGM</artifactId>
-  <version>0.0.1</version>
-  <packaging>jar</packaging>
+    <groupId>bot.blackhole</groupId>
+    <artifactId>bot.blackhole.AutoGM</artifactId>
+    <version>0.0.1</version>
+    <packaging>jar</packaging>
 
-  <name>AutoGM</name>
-  <url>https://github.com/Squishysquirrel/AutoGM</url>
+    <name>AutoGM</name>
+    <url>https://github.com/Squishysquirrel/AutoGM</url>
 
-  <repositories>
-    <repository>
-      <id>jcenter</id>
-      <url>http://jcenter.bintray.com</url>
-    </repository>
-    <repository>
-      <id>jitpack.io</id>
-      <url>https://jitpack.io</url>
-    </repository>
-  </repositories>
+    <repositories>
+        <repository>
+            <id>jcenter</id>
+            <url>http://jcenter.bintray.com</url>
+        </repository>
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
+    </repositories>
 
-  <dependencies>
-    <dependency>
-      <groupId>com.github.austinv11</groupId>
-      <artifactId>Discord4J</artifactId>
-      <version>2.9.3</version>
-    </dependency>
-  </dependencies>
+    <dependencies>
+        <dependency>
+            <groupId>com.github.austinv11</groupId>
+            <artifactId>Discord4J</artifactId>
+            <version>2.9.3</version>
+        </dependency>
+    </dependencies>
 </project>
