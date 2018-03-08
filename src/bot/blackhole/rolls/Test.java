@@ -8,6 +8,11 @@ public class Test implements Roll {
         this.rollAmount = rollAmount;
         this.diceSize = diceSize;
     }
+    
+    public Test(int rollAmount) {
+        this.rollAmount = rollAmount;
+        this.diceSize = 6;
+    }
 
     public int makeTest() {
 
