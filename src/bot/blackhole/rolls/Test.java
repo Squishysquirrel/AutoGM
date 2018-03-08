@@ -9,12 +9,12 @@ public class Test implements Roll {
         this.diceSize = diceSize;
     }
 
-    int makeTest() {
+    public int makeTest() {
 
 
     }
 
-    List<Integer> makeRoll() {
+    protected List<Integer> makeRoll() {
         // do them rolls
     }
 }
